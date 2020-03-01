@@ -1,0 +1,471 @@
+02-28-2020 22:29:13 - root - INFO - Starting deathnote API request:
+02-28-2020 22:29:13 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-28-2020 22:29:14 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100 HTTP/1.1" 200 53430
+02-28-2020 22:29:14 - root - INFO - Completed deathnote API request!
+02-28-2020 22:29:14 - root - INFO - Starting OnePunchMan API request:
+02-28-2020 22:29:14 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-28-2020 22:29:15 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100 HTTP/1.1" 200 61502
+02-28-2020 22:29:15 - root - INFO - Completed OnePunchMan API request!
+02-29-2020 00:34:57 - root - INFO - Starting deathnote API request:
+02-29-2020 00:34:57 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:34:58 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100 HTTP/1.1" 200 52758
+02-29-2020 00:34:59 - root - INFO - 7.69% done!
+02-29-2020 00:35:00 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:01 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f8s733 HTTP/1.1" 200 57971
+02-29-2020 00:35:02 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:02 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f6b6e0 HTTP/1.1" 200 54633
+02-29-2020 00:35:04 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:04 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f3htxh HTTP/1.1" 200 58245
+02-29-2020 00:35:05 - root - INFO - 30.77% done!
+02-29-2020 00:35:06 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:06 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f19151 HTTP/1.1" 200 55812
+02-29-2020 00:35:06 - root - INFO - 38.46% done!
+02-29-2020 00:35:07 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:08 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f0203y HTTP/1.1" 200 53721
+02-29-2020 00:35:09 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:11 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_ez5lxw HTTP/1.1" 200 62022
+02-29-2020 00:35:12 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:12 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_eyaps1 HTTP/1.1" 200 49716
+02-29-2020 00:35:13 - root - INFO - 61.54% done!
+02-29-2020 00:35:14 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:14 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_ev0ii9 HTTP/1.1" 200 56943
+02-29-2020 00:35:14 - root - INFO - 69.23% done!
+02-29-2020 00:35:15 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:16 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_eqezar HTTP/1.1" 200 43921
+02-29-2020 00:35:17 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:18 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100 HTTP/1.1" 200 52582
+02-29-2020 00:35:19 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:20 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f8s733 HTTP/1.1" 200 58008
+02-29-2020 00:35:20 - root - INFO - 92.31% done!
+02-29-2020 00:35:21 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:22 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f6b6e0 HTTP/1.1" 200 54635
+02-29-2020 00:35:22 - root - INFO - Completed deathnote API request!
+02-29-2020 00:35:22 - root - INFO - Starting OnePunchMan API request:
+02-29-2020 00:35:22 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:23 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100 HTTP/1.1" 200 63607
+02-29-2020 00:35:23 - root - INFO - 7.69% done!
+02-29-2020 00:35:24 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:25 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f9id50 HTTP/1.1" 200 62468
+02-29-2020 00:35:26 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:27 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f8arb7 HTTP/1.1" 200 64301
+02-29-2020 00:35:28 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:30 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f7ql9m HTTP/1.1" 200 71459
+02-29-2020 00:35:30 - root - INFO - 30.77% done!
+02-29-2020 00:35:31 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:32 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f57mpv HTTP/1.1" 200 71056
+02-29-2020 00:35:32 - root - INFO - 38.46% done!
+02-29-2020 00:35:33 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:34 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f423xc HTTP/1.1" 200 63435
+02-29-2020 00:35:35 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:36 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f2selo HTTP/1.1" 200 66981
+02-29-2020 00:35:37 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:38 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f0tpc2 HTTP/1.1" 200 64409
+02-29-2020 00:35:38 - root - INFO - 61.54% done!
+02-29-2020 00:35:39 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:40 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f0m5q5 HTTP/1.1" 200 57895
+02-29-2020 00:35:40 - root - INFO - 69.23% done!
+02-29-2020 00:35:41 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:41 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_eyi5p5 HTTP/1.1" 200 12985
+02-29-2020 00:35:42 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:43 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100 HTTP/1.1" 200 63575
+02-29-2020 00:35:44 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:35:46 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f9id50 HTTP/1.1" 200 62468
+02-29-2020 00:35:46 - root - INFO - 92.31% done!
+02-29-2020 00:35:47 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:12 - root - INFO - Starting deathnote API request:
+02-29-2020 00:38:12 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:13 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100 HTTP/1.1" 200 52647
+02-29-2020 00:38:13 - root - INFO - 7.69% done!
+02-29-2020 00:38:14 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:15 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f8s733 HTTP/1.1" 200 58000
+02-29-2020 00:38:16 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:17 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f6b6e0 HTTP/1.1" 200 54332
+02-29-2020 00:38:18 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:19 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f3htxh HTTP/1.1" 200 58271
+02-29-2020 00:38:19 - root - INFO - 30.77% done!
+02-29-2020 00:38:20 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:21 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f19151 HTTP/1.1" 200 55801
+02-29-2020 00:38:21 - root - INFO - 38.46% done!
+02-29-2020 00:38:22 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:23 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f0203y HTTP/1.1" 200 53690
+02-29-2020 00:38:24 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:25 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_ez5lxw HTTP/1.1" 200 62077
+02-29-2020 00:38:26 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:27 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_eyaps1 HTTP/1.1" 200 49726
+02-29-2020 00:38:27 - root - INFO - 61.54% done!
+02-29-2020 00:38:28 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:29 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_ev0ii9 HTTP/1.1" 200 57064
+02-29-2020 00:38:29 - root - INFO - 69.23% done!
+02-29-2020 00:38:30 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:31 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_eqezar HTTP/1.1" 200 44012
+02-29-2020 00:38:32 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:33 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100 HTTP/1.1" 200 52657
+02-29-2020 00:38:34 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:35 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f8s733 HTTP/1.1" 200 57979
+02-29-2020 00:38:35 - root - INFO - 92.31% done!
+02-29-2020 00:38:36 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:37 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f6b6e0 HTTP/1.1" 200 54632
+02-29-2020 00:38:37 - root - INFO - Completed deathnote API request!
+02-29-2020 00:38:37 - root - INFO - Starting OnePunchMan API request:
+02-29-2020 00:38:37 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:38 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100 HTTP/1.1" 200 63579
+02-29-2020 00:38:38 - root - INFO - 7.69% done!
+02-29-2020 00:38:39 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:40 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f9id50 HTTP/1.1" 200 62436
+02-29-2020 00:38:41 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:42 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f8arb7 HTTP/1.1" 200 64302
+02-29-2020 00:38:43 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:44 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f7ql9m HTTP/1.1" 200 71439
+02-29-2020 00:38:44 - root - INFO - 30.77% done!
+02-29-2020 00:38:45 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:46 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f57mpv HTTP/1.1" 200 71095
+02-29-2020 00:38:46 - root - INFO - 38.46% done!
+02-29-2020 00:38:47 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:48 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f423xc HTTP/1.1" 200 63425
+02-29-2020 00:38:49 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:50 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f2selo HTTP/1.1" 200 66937
+02-29-2020 00:38:52 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:53 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f0tpc2 HTTP/1.1" 200 64405
+02-29-2020 00:38:53 - root - INFO - 61.54% done!
+02-29-2020 00:38:54 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:55 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f0m5q5 HTTP/1.1" 200 57847
+02-29-2020 00:38:55 - root - INFO - 69.23% done!
+02-29-2020 00:38:56 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:56 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_eyi5p5 HTTP/1.1" 200 12991
+02-29-2020 00:38:57 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:38:58 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100 HTTP/1.1" 200 63588
+02-29-2020 00:38:59 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:39:00 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f9id50 HTTP/1.1" 200 62470
+02-29-2020 00:39:00 - root - INFO - 92.31% done!
+02-29-2020 00:39:01 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:39:03 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f8arb7 HTTP/1.1" 200 64290
+02-29-2020 00:39:03 - root - INFO - Completed OnePunchMan API request!
+02-29-2020 00:40:19 - root - INFO - Starting deathnote API request:
+02-29-2020 00:40:19 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:40:20 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100 HTTP/1.1" 200 52763
+02-29-2020 00:40:20 - root - INFO - 7.69% done!
+02-29-2020 00:40:21 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:40:23 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f8s733 HTTP/1.1" 200 58023
+02-29-2020 00:40:24 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:40:25 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f6b6e0 HTTP/1.1" 200 54573
+02-29-2020 00:40:27 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:40:28 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f3htxh HTTP/1.1" 200 58204
+02-29-2020 00:40:28 - root - INFO - 30.77% done!
+02-29-2020 00:40:29 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:40:30 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f19151 HTTP/1.1" 200 55810
+02-29-2020 00:40:30 - root - INFO - 38.46% done!
+02-29-2020 00:40:31 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:40:33 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f0203y HTTP/1.1" 200 53779
+02-29-2020 00:40:34 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:40:36 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_ez5lxw HTTP/1.1" 200 62017
+02-29-2020 00:40:37 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:40:38 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_eyaps1 HTTP/1.1" 200 49771
+02-29-2020 00:40:38 - root - INFO - 61.54% done!
+02-29-2020 00:40:39 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:40:40 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_ev0ii9 HTTP/1.1" 200 57006
+02-29-2020 00:40:40 - root - INFO - 69.23% done!
+02-29-2020 00:40:41 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:40:42 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_eqezar HTTP/1.1" 200 44043
+02-29-2020 00:40:43 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:40:44 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100 HTTP/1.1" 200 52710
+02-29-2020 00:40:45 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:40:47 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f8s733 HTTP/1.1" 200 57925
+02-29-2020 00:40:47 - root - INFO - 92.31% done!
+02-29-2020 00:40:48 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:40:49 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f6b6e0 HTTP/1.1" 200 54626
+02-29-2020 00:40:49 - root - INFO - Completed deathnote API request!
+02-29-2020 00:40:49 - root - INFO - Starting OnePunchMan API request:
+02-29-2020 00:40:49 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:40:50 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100 HTTP/1.1" 200 63638
+02-29-2020 00:40:50 - root - INFO - 7.69% done!
+02-29-2020 00:40:51 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:40:52 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f9id50 HTTP/1.1" 200 62415
+02-29-2020 00:40:53 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:40:54 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f8arb7 HTTP/1.1" 200 64316
+02-29-2020 00:40:55 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:40:57 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f7ql9m HTTP/1.1" 200 71444
+02-29-2020 00:40:57 - root - INFO - 30.77% done!
+02-29-2020 00:40:58 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:40:59 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f57mpv HTTP/1.1" 200 71078
+02-29-2020 00:40:59 - root - INFO - 38.46% done!
+02-29-2020 00:41:00 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:41:01 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f423xc HTTP/1.1" 200 63448
+02-29-2020 00:41:02 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:41:03 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f2selo HTTP/1.1" 200 66967
+02-29-2020 00:41:04 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:41:05 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f0tpc2 HTTP/1.1" 200 64413
+02-29-2020 00:41:05 - root - INFO - 61.54% done!
+02-29-2020 00:41:06 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:41:07 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f0m5q5 HTTP/1.1" 200 57861
+02-29-2020 00:41:07 - root - INFO - 69.23% done!
+02-29-2020 00:41:08 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:41:09 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_eyi5p5 HTTP/1.1" 200 12988
+02-29-2020 00:41:10 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:41:11 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100 HTTP/1.1" 200 63657
+02-29-2020 00:41:12 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:41:13 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f9id50 HTTP/1.1" 200 62462
+02-29-2020 00:41:14 - root - INFO - 92.31% done!
+02-29-2020 00:41:15 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:41:16 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f8arb7 HTTP/1.1" 200 64291
+02-29-2020 00:41:16 - root - INFO - Completed OnePunchMan API request!
+02-29-2020 00:41:30 - root - INFO - Starting deathnote API request:
+02-29-2020 00:41:30 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:41:31 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100 HTTP/1.1" 200 52738
+02-29-2020 00:41:31 - root - INFO - 7.69% done!
+02-29-2020 00:41:32 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:41:33 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f8s733 HTTP/1.1" 200 58010
+02-29-2020 00:41:35 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:41:35 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f6b6e0 HTTP/1.1" 200 54644
+02-29-2020 00:41:37 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:41:39 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f3htxh HTTP/1.1" 200 58207
+02-29-2020 00:41:39 - root - INFO - 30.77% done!
+02-29-2020 00:41:40 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:41:41 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f19151 HTTP/1.1" 200 55747
+02-29-2020 00:41:41 - root - INFO - 38.46% done!
+02-29-2020 00:41:42 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:41:43 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f0203y HTTP/1.1" 200 53701
+02-29-2020 00:41:44 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:41:45 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_ez5lxw HTTP/1.1" 200 61999
+02-29-2020 00:41:47 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:41:48 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_eyaps1 HTTP/1.1" 200 49764
+02-29-2020 00:41:48 - root - INFO - 61.54% done!
+02-29-2020 00:41:49 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:41:50 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_ev0ii9 HTTP/1.1" 200 57008
+02-29-2020 00:41:50 - root - INFO - 69.23% done!
+02-29-2020 00:41:51 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:41:52 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_eqezar HTTP/1.1" 200 44078
+02-29-2020 00:41:53 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:41:54 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100 HTTP/1.1" 200 52703
+02-29-2020 00:41:55 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:41:57 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f8s733 HTTP/1.1" 200 58038
+02-29-2020 00:41:57 - root - INFO - 92.31% done!
+02-29-2020 00:41:58 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:41:59 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f6b6e0 HTTP/1.1" 200 54606
+02-29-2020 00:41:59 - root - INFO - Completed deathnote API request!
+02-29-2020 00:41:59 - root - INFO - Starting OnePunchMan API request:
+02-29-2020 00:41:59 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:42:00 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100 HTTP/1.1" 200 63627
+02-29-2020 00:42:00 - root - INFO - 7.69% done!
+02-29-2020 00:42:01 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:42:03 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f9id50 HTTP/1.1" 200 62463
+02-29-2020 00:42:04 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:42:05 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f8arb7 HTTP/1.1" 200 64293
+02-29-2020 00:42:06 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:42:07 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f7ql9m HTTP/1.1" 200 71460
+02-29-2020 00:42:08 - root - INFO - 30.77% done!
+02-29-2020 00:42:09 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:42:10 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f57mpv HTTP/1.1" 200 71038
+02-29-2020 00:42:10 - root - INFO - 38.46% done!
+02-29-2020 00:42:11 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:42:12 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f423xc HTTP/1.1" 200 63425
+02-29-2020 00:42:14 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:42:16 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f2selo HTTP/1.1" 200 66932
+02-29-2020 00:42:17 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:42:18 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f0tpc2 HTTP/1.1" 200 64434
+02-29-2020 00:42:18 - root - INFO - 61.54% done!
+02-29-2020 00:42:19 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:42:21 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f0m5q5 HTTP/1.1" 200 57884
+02-29-2020 00:42:21 - root - INFO - 69.23% done!
+02-29-2020 00:42:22 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:42:23 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_eyi5p5 HTTP/1.1" 200 12976
+02-29-2020 00:42:24 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:42:25 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100 HTTP/1.1" 200 63629
+02-29-2020 00:42:26 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:42:27 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f9id50 HTTP/1.1" 200 62438
+02-29-2020 00:42:27 - root - INFO - 92.31% done!
+02-29-2020 00:42:28 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:42:29 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f8arb7 HTTP/1.1" 200 64330
+02-29-2020 00:42:29 - root - INFO - Completed OnePunchMan API request!
+02-29-2020 00:44:50 - root - INFO - Starting deathnote API request:
+02-29-2020 00:44:50 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:44:51 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100 HTTP/1.1" 200 52698
+02-29-2020 00:44:52 - root - INFO - 7.69% done!
+02-29-2020 00:44:53 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:44:53 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f8s733 HTTP/1.1" 200 58007
+02-29-2020 00:44:54 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:44:55 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f6b6e0 HTTP/1.1" 200 54651
+02-29-2020 00:44:56 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:44:57 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f3htxh HTTP/1.1" 200 58243
+02-29-2020 00:44:58 - root - INFO - 30.77% done!
+02-29-2020 00:44:59 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:45:00 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f19151 HTTP/1.1" 200 55743
+02-29-2020 00:45:00 - root - INFO - 38.46% done!
+02-29-2020 00:45:01 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:45:02 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f0203y HTTP/1.1" 200 53709
+02-29-2020 00:45:03 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:45:04 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_ez5lxw HTTP/1.1" 200 62002
+02-29-2020 00:45:05 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:45:06 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_eyaps1 HTTP/1.1" 200 49722
+02-29-2020 00:45:06 - root - INFO - 61.54% done!
+02-29-2020 00:45:07 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:45:09 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_ev0ii9 HTTP/1.1" 200 57118
+02-29-2020 00:45:09 - root - INFO - 69.23% done!
+02-29-2020 00:45:10 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:45:12 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_eqezar HTTP/1.1" 200 44046
+02-29-2020 00:45:13 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:45:14 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100 HTTP/1.1" 200 52690
+02-29-2020 00:45:15 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:45:16 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f8s733 HTTP/1.1" 200 57965
+02-29-2020 00:45:16 - root - INFO - 92.31% done!
+02-29-2020 00:45:17 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:45:18 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f6b6e0 HTTP/1.1" 200 54636
+02-29-2020 00:45:18 - root - INFO - Completed deathnote API request!
+02-29-2020 00:45:18 - root - INFO - Starting OnePunchMan API request:
+02-29-2020 00:45:18 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:45:19 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100 HTTP/1.1" 200 63622
+02-29-2020 00:45:19 - root - INFO - 7.69% done!
+02-29-2020 00:45:20 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:45:21 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f9id50 HTTP/1.1" 200 62453
+02-29-2020 00:45:23 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:45:24 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f8arb7 HTTP/1.1" 200 64303
+02-29-2020 00:45:25 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:45:26 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f7ql9m HTTP/1.1" 200 71449
+02-29-2020 00:45:26 - root - INFO - 30.77% done!
+02-29-2020 00:45:28 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:45:29 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f57mpv HTTP/1.1" 200 71094
+02-29-2020 00:45:29 - root - INFO - 38.46% done!
+02-29-2020 00:45:30 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:45:31 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f423xc HTTP/1.1" 200 63443
+02-29-2020 00:45:32 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:45:33 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f2selo HTTP/1.1" 200 66947
+02-29-2020 00:45:34 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:45:35 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f0tpc2 HTTP/1.1" 200 64443
+02-29-2020 00:45:35 - root - INFO - 61.54% done!
+02-29-2020 00:45:36 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:45:37 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f0m5q5 HTTP/1.1" 200 57908
+02-29-2020 00:45:37 - root - INFO - 69.23% done!
+02-29-2020 00:45:38 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:45:38 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_eyi5p5 HTTP/1.1" 200 13001
+02-29-2020 00:45:40 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:45:41 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100 HTTP/1.1" 200 63589
+02-29-2020 00:45:42 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:45:43 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f9id50 HTTP/1.1" 200 62405
+02-29-2020 00:45:43 - root - INFO - 92.31% done!
+02-29-2020 00:45:44 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:45:45 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f8arb7 HTTP/1.1" 200 64324
+02-29-2020 00:45:45 - root - INFO - Completed OnePunchMan API request!
+02-29-2020 00:47:38 - root - INFO - Starting deathnote API request:
+02-29-2020 00:47:38 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:47:39 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100 HTTP/1.1" 200 52714
+02-29-2020 00:47:39 - root - INFO - 7.69% done!
+02-29-2020 00:47:40 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:47:41 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f8s733 HTTP/1.1" 200 57956
+02-29-2020 00:47:42 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:47:42 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f6b6e0 HTTP/1.1" 200 54684
+02-29-2020 00:47:44 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:47:45 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f3htxh HTTP/1.1" 200 58230
+02-29-2020 00:47:45 - root - INFO - 30.77% done!
+02-29-2020 00:47:46 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:47:47 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f19151 HTTP/1.1" 200 55829
+02-29-2020 00:47:47 - root - INFO - 38.46% done!
+02-29-2020 00:47:48 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:47:48 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f0203y HTTP/1.1" 200 53755
+02-29-2020 00:47:49 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:47:50 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_ez5lxw HTTP/1.1" 200 62025
+02-29-2020 00:47:51 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:47:52 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_eyaps1 HTTP/1.1" 200 49735
+02-29-2020 00:47:52 - root - INFO - 61.54% done!
+02-29-2020 00:47:53 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:47:54 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_ev0ii9 HTTP/1.1" 200 57016
+02-29-2020 00:47:55 - root - INFO - 69.23% done!
+02-29-2020 00:47:56 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:47:56 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_eqezar HTTP/1.1" 200 43971
+02-29-2020 00:47:57 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:47:58 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100 HTTP/1.1" 200 52698
+02-29-2020 00:47:59 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:48:00 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f8s733 HTTP/1.1" 200 58029
+02-29-2020 00:48:00 - root - INFO - 92.31% done!
+02-29-2020 00:48:01 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:48:03 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f6b6e0 HTTP/1.1" 200 54629
+02-29-2020 00:48:03 - root - INFO - Completed deathnote API request!
+02-29-2020 00:48:03 - root - INFO - Starting OnePunchMan API request:
+02-29-2020 00:48:03 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:48:04 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100 HTTP/1.1" 200 63606
+02-29-2020 00:48:04 - root - INFO - 7.69% done!
+02-29-2020 00:48:05 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:48:07 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f9id50 HTTP/1.1" 200 62464
+02-29-2020 00:48:08 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:48:09 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f8arb7 HTTP/1.1" 200 64312
+02-29-2020 00:48:10 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:48:11 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f7ql9m HTTP/1.1" 200 71461
+02-29-2020 00:48:11 - root - INFO - 30.77% done!
+02-29-2020 00:48:12 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:48:14 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f57mpv HTTP/1.1" 200 71078
+02-29-2020 00:48:14 - root - INFO - 38.46% done!
+02-29-2020 00:48:15 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:48:17 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f423xc HTTP/1.1" 200 63478
+02-29-2020 00:48:18 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:48:19 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f2selo HTTP/1.1" 200 66911
+02-29-2020 00:48:20 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:48:22 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f0tpc2 HTTP/1.1" 200 64407
+02-29-2020 00:48:22 - root - INFO - 61.54% done!
+02-29-2020 00:48:23 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:48:24 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f0m5q5 HTTP/1.1" 200 57855
+02-29-2020 00:48:24 - root - INFO - 69.23% done!
+02-29-2020 00:48:25 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:48:26 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_eyi5p5 HTTP/1.1" 200 12981
+02-29-2020 00:48:27 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:48:28 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100 HTTP/1.1" 200 63630
+02-29-2020 00:48:29 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:48:30 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f9id50 HTTP/1.1" 200 62459
+02-29-2020 00:48:30 - root - INFO - 92.31% done!
+02-29-2020 00:48:31 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:48:33 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100&after=t3_f8arb7 HTTP/1.1" 200 64301
+02-29-2020 00:48:33 - root - INFO - Completed OnePunchMan API request!
+02-29-2020 00:53:15 - root - INFO - Starting deathnote API request:
+02-29-2020 00:53:15 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 00:53:16 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100 HTTP/1.1" 200 52714
+02-29-2020 00:53:16 - root - INFO - 7.69% done!
+02-29-2020 02:42:09 - root - INFO - Starting deathnote API request:
+02-29-2020 02:42:09 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 02:42:10 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100 HTTP/1.1" 200 52621
+02-29-2020 02:42:10 - root - INFO - Completed deathnote API request!
+02-29-2020 02:42:10 - root - INFO - Starting OnePunchMan API request:
+02-29-2020 02:42:11 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 02:42:11 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100 HTTP/1.1" 200 63233
+02-29-2020 02:42:12 - root - INFO - Completed OnePunchMan API request!
+02-29-2020 12:26:43 - root - INFO - Starting deathnote API request:
+02-29-2020 12:26:43 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 12:26:44 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100 HTTP/1.1" 200 51836
+02-29-2020 12:26:44 - root - INFO - 7.69% done!
+02-29-2020 12:26:45 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 12:26:46 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f8zoib HTTP/1.1" 200 57853
+02-29-2020 12:26:47 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 12:27:05 - root - INFO - Starting deathnote API request:
+02-29-2020 12:27:05 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 12:27:06 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100 HTTP/1.1" 200 51863
+02-29-2020 12:27:06 - root - INFO - Completed deathnote API request!
+02-29-2020 12:27:06 - root - INFO - Starting OnePunchMan API request:
+02-29-2020 12:27:06 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 12:27:07 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100 HTTP/1.1" 200 64198
+02-29-2020 12:27:07 - root - INFO - Completed OnePunchMan API request!
+02-29-2020 12:28:54 - root - INFO - Starting deathnote API request:
+02-29-2020 12:28:54 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 12:28:56 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100 HTTP/1.1" 200 51931
+02-29-2020 12:28:56 - root - INFO - 7.69% done!
+02-29-2020 12:28:57 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 12:28:58 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f8zoib HTTP/1.1" 200 57785
+02-29-2020 12:28:59 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 12:29:00 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f67x4o HTTP/1.1" 200 54088
+02-29-2020 12:29:01 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 12:29:02 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f3o7yi HTTP/1.1" 200 59649
+02-29-2020 12:29:02 - root - INFO - 30.77% done!
+02-29-2020 12:29:03 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 12:29:04 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_f1t89i HTTP/1.1" 200 54770
+02-29-2020 12:29:04 - root - INFO - 38.46% done!
+02-29-2020 12:29:05 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 12:29:06 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_ezydc1 HTTP/1.1" 200 55361
+02-29-2020 12:29:07 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 12:29:08 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_ez50af HTTP/1.1" 200 61659
+02-29-2020 12:29:09 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 12:29:10 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100&after=t3_eyhjyq HTTP/1.1" 200 49736
+02-29-2020 12:29:10 - root - INFO - 61.54% done!
+02-29-2020 12:29:11 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 12:29:21 - root - INFO - Starting deathnote API request:
+02-29-2020 12:29:21 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 12:29:22 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/deathnote.json?limit=100 HTTP/1.1" 200 51939
+02-29-2020 12:29:22 - root - INFO - Completed deathnote API request!
+02-29-2020 12:29:22 - root - INFO - Starting OnePunchMan API request:
+02-29-2020 12:29:22 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+02-29-2020 12:29:23 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/OnePunchMan.json?limit=100 HTTP/1.1" 200 64285
+02-29-2020 12:29:23 - root - INFO - Completed OnePunchMan API request!
